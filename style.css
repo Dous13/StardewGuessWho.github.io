@@ -1,0 +1,23 @@
+.font {
+    font-family: 'Minecraft', sans-serif;
+    text-decoration: none;
+    color: white;
+}
+
+.header {
+    text-align: center;
+    padding: 100px 0;
+}
+
+.card {
+    border: none;
+}
+
+.center {
+    border: 5px solid;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 10px;
+  }
